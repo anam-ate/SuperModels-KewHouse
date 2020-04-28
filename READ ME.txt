@@ -1,0 +1,5 @@
+The following Arduino scripts for the Due and Touchboard control an animatronic house which comprises of the following hardware:
+x2 linear gear rack servos (HS785HB sail winch servo)
+x1 SG90 servo
+x1 5V desktop humidifier for the chimney
+x3 Neopixel RGBW strips
